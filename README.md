@@ -8,8 +8,8 @@ Note: All required back-end adjustments completed with all blockchain functions 
 
 ### Sample 1:
 
-![Image 1](RBC-HW18-BC-Challenge\Starter_Code\Images\Streamlit_BC.Sample_1.jpg)
+![Image 1](Starter_Code\Images\Streamlit_BC.Sample_1.jpg)
 
 ### Sample 2:
 
-![Image 2](RBC-HW18-BC-Challenge\Starter_Code\Images\Streamlit_BC.Sample_2.jpg)
+![Image 2](Starter_Code\Images\Streamlit_BC.Sample_2.jpg)
